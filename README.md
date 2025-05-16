@@ -1,5 +1,22 @@
-# Software-engineering
-- 这里是本学期软件工程项目的所在地，主要侧重点在于团队协作开发软件过程中的文件书写，同时会有少量代码
-## 第一个分支：软件的可行性分析，Feasibility_analysis_report
-*(在之后的分支建立中不会再使用如此冗长的名称，只使用简称)*
-- 简介将等到团队成员更新完毕之后再完善
+实验九  UML，逻辑， 软件体系结构设计（一）
+
+实验目的：
+1. 深入理解UML
+2. 了解计算机学科中的逻辑
+3. 学习对比软件体系结构设计GB和IEEE最新SAD (Software Architecture Document)的标准
+4. 研究经典软件体系结构案例
+3. 完成自己项目的SRS
+
+实验内容：
+
+1. 阅读“The Unified Modeling Language Reference Manual”，进一步学习UML知识，理解如何应用UML对系统进行建模
+
+2.  浏览“LOGIC IN COMPUTER SCIENCE--Modelling and Reasoning about Systems”，了解常用逻辑及其在计算机学科中的应用
+
+3.  分工协作，参考国标“13 - 软件(结构)设计说明(SDD)”等资料，对比参考SAD最新标准IEEE-42010.pdf，针对自己的项目设计SAD初稿。
+
+4. 分工协作，学习、检索研究经典软件体系结构案例。
+   On-the-Criteria-To-Be-Used-in-Decomposing-Systems-into-Modules.pdf
+   http://www.cs.cmu.edu/~ModProb/index.html
+
+5. 完成软件需求规格说明SRS
