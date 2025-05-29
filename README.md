@@ -1,5 +1,22 @@
-# Software-engineering
-- 这里是本学期软件工程项目的所在地，主要侧重点在于团队协作开发软件过程中的文件书写，同时会有少量代码
-## 第一个分支：软件的可行性分析，Feasibility_analysis_report
-*(在之后的分支建立中不会再使用如此冗长的名称，只使用简称)*
-- 简介将等到团队成员更新完毕之后再完善
+实验十  软件体系结构设计（二）
+
+实验目的：
+1. 体系结构风格和视图特点
+2. 研究经典软件体系结构案例
+3. 继续补充和修改自己项目的SAD
+
+实验内容：
+
+1. 对比书上各种软件体系结构风格和视图特点，思考自己项目属于哪种设计风格？
+   
+网上搜索最新的软件体系结构资料，如MVC、Kruchten 4+1视图等。
+
+2. 参阅课本和网上资料，研究经典软件体系结构案例KWIC。
+
+   An Introduction to Software Architecture，4.1节
+   On-the-Criteria-To-Be-Used-in-Decomposing-Systems-into-Modules（Example System 1）
+   http://www.cs.cmu.edu/~ModProb/index.html
+   
+针对KWIC和自己项目，参考课本ch5 表5-3，小组成员每人给几种不同的体系结构风格设计打分，评最佳。
+
+3. 补充和修改自己项目的SAD
