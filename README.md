@@ -1,5 +1,14 @@
-# Software-engineering
-- 这里是本学期软件工程项目的所在地，主要侧重点在于团队协作开发软件过程中的文件书写，同时会有少量代码
-## 第一个分支：软件的可行性分析，Feasibility_analysis_report
-*(在之后的分支建立中不会再使用如此冗长的名称，只使用简称)*
-- 简介将等到团队成员更新完毕之后再完善
+# 实验十三  设计模块（二）
+
+## 实验目的：
+学习设计模式，能在项目设计中运用设计模式进行面向对象设计
+
+## 实验内容：
+
+1. 阅读下面设计模式资料（或查阅其它相关资料），结合项目的进程和开发历程，分析项目采用了那些设计模式
+
+Design Patterns-Elements of Reusable Object-Oriented Software.pdf
+The GoF Design Patterns Reference.pdf
+Design Patterns - Wikipedia
+
+2. 给出4种设计模式的例子（语言不限，以组为单位），并总结其特点 （保存到每个小组选定的协作开发平台上）
