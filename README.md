@@ -13,8 +13,6 @@ readme.md：说明各个分支所包含内容以及总项目完成的甘特图
 
 ## Feasibility_analysis_report
 
-包含：
-
 **readme.md**：可行性分析报告目录
 
 **01-可行性分析（研究）报告（FAR）.doc**
@@ -24,8 +22,6 @@ readme.md：说明各个分支所包含内容以及总项目完成的甘特图
 
 
 ##  lab4
-
-包括：
 
 **readme.md**：实验四实验内容
 
@@ -40,8 +36,6 @@ readme.md：说明各个分支所包含内容以及总项目完成的甘特图
 
 
 ## lab5_project tracking
-
-包括：
 
 **readme.md**：实验五实验内容
 
